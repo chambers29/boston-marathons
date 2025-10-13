@@ -7,7 +7,7 @@
 - [data/](data/) - all datasets used in the project  
     - [raw/](data/raw) - original datasets downloaded from Kaggle  
     - [clean/](data/clean) - processed datasets used in analysis
-    - [mappings/](data/clean) - additional CSV files used for mapping (e.g., country-to-continent)  
+    - [mappings/](data/mappings) - additional CSV files used for mapping (e.g., country-to-continent)  
 - [notebooks/](notebooks/) - all Jupyter notebooks used in the project  
     - [preparation/](notebooks/preparation) - notebooks for data cleaning, preprocessing, and feature engineering
     - [analysis/](notebooks/analysis) - notebooks containing all analytical work and visualizations
@@ -32,7 +32,7 @@
 ```bash
 pip install -r requirements.txt
 ```
-### 2. Open jupyter in analysis directory:
+### 2. Open Jupyter in analysis directory:
 ```bash
 jupyter notebook notebooks/analysis
 ```
