@@ -1,4 +1,8 @@
 # Boston Marathons Analysis
+This project analyzes Boston Marathon results (2015–2017) to identify performance patterns by gender, age, and ethnicity.
+
+It includes a full data pipeline from cleaning and preprocessing to visualization, built entirely in Python.
+
 > Based on results from 2015, 2016 and 2017
 >> Source: [Kaggle – Boston Marathon Results](https://www.kaggle.com/datasets/rojour/boston-results)
 
