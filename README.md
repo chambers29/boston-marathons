@@ -27,7 +27,7 @@
 - seaborn
 - Jupyter Notebook
 
-## How to run visualizations by yourself
+## How to run visualizations yourself
 ### 1. Install required packages:
 ```bash
 pip install -r requirements.txt
