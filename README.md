@@ -1,4 +1,7 @@
-# Boston Marathons Analysis
+<p align="center">
+  <img src="images/boston_banner.png" alt="Project Banner" width="1000"/>
+</p>
+
 This project analyzes Boston Marathon results (2015–2017) to identify performance patterns by gender, age, and ethnicity.
 
 It includes a full data pipeline from cleaning and preprocessing to visualization, built entirely in Python.
