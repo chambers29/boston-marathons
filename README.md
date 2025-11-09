@@ -2,6 +2,7 @@
   <img src="images/boston_banner.png" alt="Project Banner" width="1000"/>
 </p>
 
+---
 ## Summary
 This project analyzes Boston Marathon results (2015–2017) to identify performance patterns by gender, age, and ethnicity.
 
